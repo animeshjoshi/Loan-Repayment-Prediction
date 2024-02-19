@@ -1,0 +1,1 @@
+This project was the capstone project for the Python for Data Science and Machine Learning course by Jose Portilla. In this project, I analyzed a dataset from lending club to predict whether or not someone would repay their loan. This project involved feature engineering, data visualization, exploratory data analysis, and predictive modeling using a perceptron network.
